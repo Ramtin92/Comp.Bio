@@ -1,5 +1,5 @@
 # 150csbhw1
-# all parts of the homework is implemented
+# All parts of the homework is implemented
 For running the code in an IDE like pycharm, just hit the Run button or you could simply run it
 in terminal with command: python [filename]
 
