@@ -1,0 +1,19 @@
+ENTRY       R00740                      Reaction
+NAME        3-oxopropanoate:NADP+ oxidoreductase (CoA-malonylating)
+DEFINITION  3-Oxopropanoate + CoA + NADP+ <=> Malonyl-CoA + NADPH + H+
+EQUATION    C00222 + C00010 + C00006 <=> C00083 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00004  C00010_C00083
+            RC00184  C00083_C00222
+ENZYME      1.2.1.75
+PATHWAY     rn00640  Propanoate metabolism
+            rn00720  Carbon fixation pathways in prokaryotes
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+            rn01200  Carbon metabolism
+MODULE      M00375  Hydroxypropionate-hydroxybutylate cycle
+            M00376  3-Hydroxypropionate bi-cycle
+ORTHOLOGY   K14468  malonyl-CoA reductase / 3-hydroxypropionate dehydrogenase (NADP+) [EC:1.2.1.75 1.1.1.298]
+            K15017  malonyl-CoA/succinyl-CoA reductase (NADPH) [EC:1.2.1.75 1.2.1.76]
+DBLINKS     RHEA: 26449
+///

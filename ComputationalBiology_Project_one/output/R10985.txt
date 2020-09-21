@@ -1,0 +1,9 @@
+ENTRY       R10985                      Reaction
+DEFINITION  L-Serine + NAD+ <=> 2-Aminomalonate semialdehyde + NADH + H+
+EQUATION    C00065 + C00003 <=> C11822 + C00004 + C00080
+COMMENT     first step of two-step reaction (see R10986, R10985+R06830)
+RCLASS      RC00001  C00003_C00004
+            RC00099  C00065_C11822
+ENZYME      1.1.1.387
+DBLINKS     RHEA: 43531
+///

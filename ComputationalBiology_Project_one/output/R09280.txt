@@ -1,0 +1,20 @@
+ENTRY       R09280                      Reaction
+NAME        succinate-semialdehyde:NADP+ oxidoreductase (CoA-acylating)
+DEFINITION  Succinyl-CoA + NADPH + H+ <=> Succinate semialdehyde + NADP+ + CoA
+EQUATION    C00091 + C00005 + C00080 <=> C00232 + C00006 + C00010
+RCLASS      RC00001  C00005_C00006
+            RC00004  C00010_C00091
+            RC00184  C00091_C00232
+ENZYME      1.2.1.76
+PATHWAY     rn00650  Butanoate metabolism
+            rn00720  Carbon fixation pathways in prokaryotes
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+            rn01200  Carbon metabolism
+MODULE      M00374  Dicarboxylate-hydroxybutyrate cycle
+            M00375  Hydroxypropionate-hydroxybutylate cycle
+ORTHOLOGY   K15017  malonyl-CoA/succinyl-CoA reductase (NADPH) [EC:1.2.1.75 1.2.1.76]
+            K15038  succinyl-CoA reductase [EC:1.2.1.76]
+            K18119  succinate-semialdehyde dehydrogenase [EC:1.2.1.76]
+DBLINKS     RHEA: 26453
+///

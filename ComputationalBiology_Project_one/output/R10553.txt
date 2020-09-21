@@ -1,0 +1,9 @@
+ENTRY       R10553                      Reaction
+NAME        N-acetyl-L-cysteine-S-conjugate amidohydrolase (carboxylate-forming)
+DEFINITION  S-Substituted N-acetyl-L-cysteine + H2O <=> S-Substituted L-cysteine + Acetate
+EQUATION    C05727 + C00001 <=> C05726 + C00033
+RCLASS      RC00064  C05726_C05727
+            RC00300  C00033_C05727
+ENZYME      3.5.1.14        3.5.1.114
+ORTHOLOGY   K14677  aminoacylase [EC:3.5.1.14]
+///

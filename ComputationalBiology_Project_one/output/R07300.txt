@@ -1,0 +1,9 @@
+ENTRY       R07300                      Reaction
+NAME        N8-acetylspermidine amidohydrolase
+DEFINITION  N8-Acetylspermidine + H2O <=> Acetate + Spermidine
+EQUATION    C01029 + C00001 <=> C00033 + C00315
+RCLASS      RC00096  C00315_C01029
+            RC00300  C00033_C01029
+ENZYME      3.5.1.48
+DBLINKS     RHEA: 23931
+///

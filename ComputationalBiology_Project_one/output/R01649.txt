@@ -1,0 +1,12 @@
+ENTRY       R01649                      Reaction
+NAME        2-(acetamidomethylene)succinate amidohydrolase (deaminating, decarboxylating)
+DEFINITION  2-(Acetamidomethylene)succinate + 2 H2O <=> Acetate + Succinate semialdehyde + Ammonia + CO2
+EQUATION    C01215 + 2 C00001 <=> C00033 + C00232 + C00014 + C00011
+RCLASS      RC00300  C00033_C01215
+            RC00575  C00232_C01215
+ENZYME      3.5.1.29
+PATHWAY     rn00750  Vitamin B6 metabolism
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K18614  2-(acetamidomethylene)succinate hydrolase [EC:3.5.1.29]
+DBLINKS     RHEA: 10435
+///

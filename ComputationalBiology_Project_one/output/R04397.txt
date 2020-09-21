@@ -1,0 +1,10 @@
+ENTRY       R04397                      Reaction
+NAME        2-(Hydroxymethyl)-3-(acetamidomethylene)succinate amidohydrolase
+DEFINITION  2-(Hydroxymethyl)-3-(acetamidomethylene)succinate + 2 H2O <=> Acetate + 2-(Hydroxymethyl)-4-oxobutanoate + Ammonia + CO2
+EQUATION    C04690 + 2 C00001 <=> C00033 + C04106 + C00014 + C00011
+RCLASS      RC00300  C00033_C04690
+            RC01148  C04106_C04690
+ENZYME      3.5.1.66
+PATHWAY     rn00750  Vitamin B6 metabolism
+DBLINKS     RHEA: 17680
+///

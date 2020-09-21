@@ -1,0 +1,8 @@
+ENTRY       R04727                      Reaction
+NAME        N- Acetylarylalkylamine amidohydrolase
+DEFINITION  N-Acetylarylalkylamine + H2O <=> Arylalkylamine + Acetate
+EQUATION    C02998 + C00001 <=> C01890 + C00033
+RCLASS      RC00300  C00033_C02998
+            RC00992  C01890_C02998
+ENZYME      3.5.1.76
+///

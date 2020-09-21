@@ -1,0 +1,13 @@
+ENTRY       R09801                      Reaction
+NAME        N2-acetyl-L-2,4-diaminobutanoate amidohydrolase
+DEFINITION  N(alpha)-Acetyl-L-2,4-diaminobutyrate + H2O <=> L-2,4-Diaminobutanoate + Acetate
+EQUATION    C19929 + C00001 <=> C03283 + C00033
+COMMENT     N-alpha-acetyl-L-2,4-diaminobutyrate deacetylase
+RCLASS      RC00064  C03283_C19929
+            RC00300  C00033_C19929
+ENZYME      3.5.1.125
+PATHWAY     rn00260  Glycine, serine and threonine metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K15784  N2-acetyl-L-2,4-diaminobutanoate deacetylase [EC:3.5.1.125]
+DBLINKS     RHEA: 40954
+///

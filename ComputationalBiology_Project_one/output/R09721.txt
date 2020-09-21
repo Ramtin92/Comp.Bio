@@ -1,0 +1,8 @@
+ENTRY       R09721                      Reaction
+NAME        peptidoglycan-N-acetylglucosamine amidohydrolase
+DEFINITION  Peptidoglycan(N-acetyl-D-glucosamine) + n H2O <=> Peptidoglycan-D-glucosamine + n Acetate
+EQUATION    C04394 + n C00001 <=> C19842 + n C00033
+RCLASS      RC00166  C04394_C19842
+            RC00300  C00033_C04394
+ENZYME      3.5.1.104
+///

@@ -1,0 +1,9 @@
+ENTRY       R07301                      Reaction
+NAME        (S)-N-acetylphenylethylamine:H2O hydrolase
+DEFINITION  N-(2-Phenylethyl)-acetamide + H2O <=> Phenethylamine + Acetate
+EQUATION    C06746 + C00001 <=> C05332 + C00033
+RCLASS      RC00096  C05332_C06746
+            RC00300  C00033_C06746
+ENZYME      3.5.1.85
+DBLINKS     RHEA: 23955
+///

@@ -1,0 +1,41 @@
+ENTRY       RC00300                     RClass
+DEFINITION  C5a-C6a:N1b+*-*+O6a:C1a+O5a-C1a+O6a
+RPAIR       C00033_C00140    C00033_C00357    C00033_C00437
+            C00033_C00461    C00033_C01029    C00033_C01042
+            C00033_C01073    C00033_C01215    C00033_C01288
+            C00033_C02714    C00033_C02727    C00033_C02946
+            C00033_C02998    C00033_C03087    C00033_C03357
+            C00033_C04390    C00033_C04394    C00033_C04690
+            C00033_C04738    C00033_C05548    C00033_C05727
+            C00033_C06376    C00033_C06746    C00033_C07032
+            C00033_C15532    C00033_C17582    C00033_C17587
+            C00033_C17951    C00033_C19784    C00033_C19929
+            C00033_C21261
+REACTION    R00458 R00488 R00669 R00909 R01156 R01200 R01649 R01987 
+            R02059 R02276 R02333 R02733 R03482 R04056 R04174 R04397 
+            R04587 R04727 R05168 R05677 R07300 R07301 R08876 R08895 
+            R08901 R09107 R09651 R09721 R09801 R10553 R11283
+ENZYME      3.5.1.14        3.5.1.15        3.5.1.16        3.5.1.17        
+            3.5.1.21        3.5.1.25        3.5.1.29        3.5.1.33        
+            3.5.1.41        3.5.1.47        3.5.1.48        3.5.1.51        
+            3.5.1.62        3.5.1.63        3.5.1.66        3.5.1.76        
+            3.5.1.85        3.5.1.89        3.5.1.103       3.5.1.104       
+            3.5.1.108       3.5.1.112       3.5.1.113       3.5.1.114       
+            3.5.1.125       3.5.1.-
+ORTHOLOGY   K01437  aspartoacylase [EC:3.5.1.15]
+            K01438  acetylornithine deacetylase [EC:3.5.1.16]
+            K01443  N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]
+            K01452  chitin deacetylase [EC:3.5.1.41]
+            K02079  N-acetylgalactosamine-6-phosphate deacetylase [EC:3.5.1.25]
+            K02535  UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]
+            K05823  N-acetyldiaminopimelate deacetylase [EC:3.5.1.47]
+            K12636  N-acetylpuromycin N-acetylhydrolase
+            K12915  phosphinothricin tripeptide acetyl hydrolase
+            K13551  2'-N-acetylparomamine deacetylase [EC:3.5.1.112]
+            K14677  aminoacylase [EC:3.5.1.14]
+            K15784  N2-acetyl-L-2,4-diaminobutanoate deacetylase [EC:3.5.1.125]
+            K16363  UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:3.5.1.108 4.2.1.59]
+            K17078  2'-N-acetylparomamine deacetylase / 2'''-acetyl-6'''-hydroxyneomycin deacetylase [EC:3.5.1.112 3.5.1.113]
+            K18614  2-(acetamidomethylene)succinate hydrolase [EC:3.5.1.29]
+            K20583  deacetylase [EC:3.5.1.-]
+///

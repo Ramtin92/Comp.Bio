@@ -1,0 +1,9 @@
+ENTRY       R02577                      Reaction
+NAME        Propane-1,2-diol:NADP+ 1-oxidoreductase
+DEFINITION  Propane-1,2-diol + NADP+ <=> Lactaldehyde + NADPH + H+
+EQUATION    C00583 + C00006 <=> C05999 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00099  C00583_C05999
+ENZYME      1.1.1.21
+ORTHOLOGY   K00011  aldehyde reductase [EC:1.1.1.21]
+///

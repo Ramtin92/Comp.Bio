@@ -1,0 +1,11 @@
+ENTRY       R08759                      Reaction
+DEFINITION  3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane <=> 3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al
+EQUATION    C05446 <=> C01301
+COMMENT     sterol 27-hydroxylase
+RCLASS      RC00099  C01301_C05446
+ENZYME      1.14.15.15
+PATHWAY     rn00120  Primary bile acid biosynthesis
+            rn01100  Metabolic pathways
+MODULE      M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate
+ORTHOLOGY   K00488  cholestanetriol 26-monooxygenase [EC:1.14.15.15]
+///

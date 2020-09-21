@@ -1,0 +1,18 @@
+ENTRY       R09097                      Reaction
+NAME        propanal:NAD+ oxidoreductase (CoA-propanoylating)
+DEFINITION  Propanal + NAD+ + CoA <=> Propanoyl-CoA + NADH + H+
+EQUATION    C00479 + C00003 + C00010 <=> C00100 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00004  C00010_C00100
+            RC00184  C00100_C00479
+ENZYME      1.2.1.87
+PATHWAY     rn00622  Xylene degradation
+            rn00640  Propanoate metabolism
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+            rn01220  Degradation of aromatic compounds
+MODULE      M00569  Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA
+ORTHOLOGY   K13922  propionaldehyde dehydrogenase [EC:1.2.1.87]
+            K18366  acetaldehyde/propanal dehydrogenase [EC:1.2.1.10 1.2.1.87]
+DBLINKS     RHEA: 36030
+///

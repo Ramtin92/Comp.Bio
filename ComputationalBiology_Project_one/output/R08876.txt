@@ -1,0 +1,11 @@
+ENTRY       R08876                      Reaction
+NAME        N-acetylbialaphos amidohydrolase
+DEFINITION  N-Acetylbialaphos + H2O <=> Bialaphos + Acetate
+EQUATION    C17951 + C00001 <=> C06457 + C00033
+COMMENT     deacetylase
+RCLASS      RC00064  C06457_C17951
+            RC00300  C00033_C17951
+PATHWAY     rn00440  Phosphonate and phosphinate metabolism
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K12915  phosphinothricin tripeptide acetyl hydrolase
+///

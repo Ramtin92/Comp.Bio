@@ -1,0 +1,12 @@
+ENTRY       R07985                      Reaction
+NAME        (S)-2-hydroxymethylglutarate:NAD+ oxidoreductase
+DEFINITION  2-Formylglutarate + NADH + H+ <=> (S)-2-(Hydroxymethyl)glutarate + NAD+
+EQUATION    C16159 + C00004 + C00080 <=> C16390 + C00003
+RCLASS      RC00001  C00003_C00004
+            RC00099  C16159_C16390
+ENZYME      1.1.1.291
+PATHWAY     rn00760  Nicotinate and nicotinamide metabolism
+            rn01120  Microbial metabolism in diverse environments
+ORTHOLOGY   K19647  2-hydroxymethylglutarate dehydrogenase [EC:1.1.1.291]
+DBLINKS     RHEA: 15508
+///

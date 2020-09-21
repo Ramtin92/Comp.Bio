@@ -1,0 +1,10 @@
+ENTRY       R02276                      Reaction
+NAME        5-Acetamidopentanoate amidohydrolase
+DEFINITION  5-Acetamidopentanoate + H2O <=> Acetate + 5-Aminopentanoate
+EQUATION    C03087 + C00001 <=> C00033 + C00431
+RCLASS      RC00096  C00431_C03087
+            RC00300  C00033_C03087
+ENZYME      3.5.1.63
+PATHWAY     rn00310  Lysine degradation
+DBLINKS     RHEA: 42515
+///

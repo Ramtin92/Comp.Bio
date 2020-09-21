@@ -1,0 +1,9 @@
+ENTRY       R00458                      Reaction
+NAME        N6-acetyl-L-lysine amidohydrolase
+DEFINITION  N6-Acetyl-L-lysine + H2O <=> Acetate + L-Lysine
+EQUATION    C02727 + C00001 <=> C00033 + C00047
+RCLASS      RC00096  C00047_C02727
+            RC00300  C00033_C02727
+ENZYME      3.5.1.17
+PATHWAY     rn00310  Lysine degradation
+///

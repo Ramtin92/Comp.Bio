@@ -1,0 +1,10 @@
+ENTRY       R09557                      Reaction
+NAME        2-sulfoacetaldehyde:NADP+ oxidoreductase (CoA-acetylating)
+DEFINITION  Sulfoacetaldehyde + CoA + NADP+ <=> Sulfoacetyl-CoA + NADPH + H+
+EQUATION    C00593 + C00010 + C00006 <=> C19685 + C00005 + C00080
+RCLASS      RC00001  C00005_C00006
+            RC00004  C00010_C19685
+            RC00184  C00593_C19685
+ENZYME      1.2.1.81
+DBLINKS     RHEA: 29598
+///

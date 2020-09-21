@@ -1,0 +1,9 @@
+ENTRY       R04056                      Reaction
+NAME        4-Acetamidobutyryl-CoA amidohydrolase
+DEFINITION  4-Acetamidobutanoyl-CoA + H2O <=> Acetate + 4-Aminobutanoyl-CoA
+EQUATION    C03357 + C00001 <=> C00033 + C02801
+RCLASS      RC00096  C02801_C03357
+            RC00300  C00033_C03357
+ENZYME      3.5.1.51
+DBLINKS     RHEA: 22931
+///

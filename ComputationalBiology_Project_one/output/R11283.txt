@@ -1,0 +1,16 @@
+ENTRY       R11283                      Reaction
+NAME        2'''-N-acetyl-6'''-deamino-6'''-hydroxyparomomycin-II hydrolase (acetate-forming)
+DEFINITION  2'''-N-Acetyl-6'''-deamino-6'''-hydroxyparomomycin II + H2O <=> 6'''-Deamino-6'''-hydroxyparomomycin II + Acetate
+EQUATION    C21261 + C00001 <=> C21262 + C00033
+COMMENT     deduced reaction
+RCLASS      RC00166  C21261_C21262
+            RC00300  C00033_C21261
+ENZYME      3.5.1.-
+PATHWAY     rn00524  Neomycin, kanamycin and gentamicin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K20583  deacetylase [EC:3.5.1.-]
+REFERENCE   1  [PMID:21689223]
+            Clausnitzer D, Piepersberg W, Wehmeier UF
+            The oxidoreductases LivQ and NeoQ are responsible for the different 6'-modifications in the aminoglycosides lividomycin and neomycin.
+            J. Appl. Microbiol. 111 (2011) 642-51.
+///

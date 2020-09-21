@@ -1,0 +1,7 @@
+ENTRY       R11618                      Reaction
+NAME        alditol:oxygen oxidoreductase
+DEFINITION  Alditol + Oxygen <=> Aldose + Hydrogen peroxide
+EQUATION    C00717 + C00007 <=> C01370 + C00027
+RCLASS      RC00099  C00717_C01370
+ENZYME      1.1.3.41
+///

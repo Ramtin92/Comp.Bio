@@ -1,0 +1,10 @@
+ENTRY       R06126                      Reaction
+NAME        L-serine:NADP+ 3-oxidoreductase
+DEFINITION  L-Serine + NADP+ <=> 2-Aminomalonate semialdehyde + NADPH + H+
+EQUATION    C00065 + C00006 <=> C11822 + C00005 + C00080
+COMMENT     first step of two-step reaction (see R10984, R06126+R06830)
+RCLASS      RC00001  C00005_C00006
+            RC00099  C00065_C11822
+ENZYME      1.1.1.276
+DBLINKS     RHEA: 21599
+///

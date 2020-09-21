@@ -1,0 +1,12 @@
+ENTRY       R05677                      Reaction
+DEFINITION  N-Acetylpuromycin + H2O <=> Puromycin + Acetate
+EQUATION    C07032 + C00001 <=> C01610 + C00033
+COMMENT     NapH, N-acetylpuromycin N-acetylhydrolase
+            Ref.1. The Journal of Biological chemistry; vol.271, No.3, Jan 19, 
+            pp.1579-1590, 1996
+RCLASS      RC00064  C01610_C07032
+            RC00300  C00033_C07032
+PATHWAY     rn00231  Puromycin biosynthesis
+            rn01130  Biosynthesis of antibiotics
+ORTHOLOGY   K12636  N-acetylpuromycin N-acetylhydrolase
+///

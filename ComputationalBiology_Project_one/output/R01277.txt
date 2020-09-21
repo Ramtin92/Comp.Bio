@@ -1,0 +1,10 @@
+ENTRY       R01277                      Reaction
+NAME        hexadecanal:NAD+ oxidoreductase (CoA-acylating)
+DEFINITION  Hexadecanal + CoA + NAD+ <=> Palmitoyl-CoA + NADH + H+
+EQUATION    C00517 + C00010 + C00003 <=> C00154 + C00004 + C00080
+RCLASS      RC00001  C00003_C00004
+            RC00004  C00010_C00154
+            RC00184  C00154_C00517
+ENZYME      1.2.1.42
+DBLINKS     RHEA: 19708
+///

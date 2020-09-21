@@ -1,0 +1,13 @@
+ENTRY       R01041                      Reaction
+NAME        glycerol:NADP+ oxidoreductase
+DEFINITION  Glycerol + NADP+ <=> D-Glyceraldehyde + NADPH + H+
+EQUATION    C00116 + C00006 <=> C00577 + C00005 + C00080
+COMMENT     NAD+ (see R01036)
+RCLASS      RC00001  C00005_C00006
+            RC00099  C00116_C00577
+ENZYME      1.1.1.2         1.1.1.21        1.1.1.72        1.1.1.372
+PATHWAY     rn00561  Glycerolipid metabolism
+ORTHOLOGY   K00002  alcohol dehydrogenase (NADP+) [EC:1.1.1.2]
+            K00011  aldehyde reductase [EC:1.1.1.21]
+DBLINKS     RHEA: 23595
+///
