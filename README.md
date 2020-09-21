@@ -1,1 +1,1 @@
-# Comp.Bio
+# Computational Biology Project 1
